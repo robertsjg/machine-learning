@@ -1,0 +1,7 @@
+/bin
+/lib
+/.ipynb_checkpoints
+/.vscode
+/include
+/share
+pip-selfcheck.json
